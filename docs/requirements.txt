@@ -1,2 +1,2 @@
-sphinx==7.1.2
+sphinx==8.0
 sphinx_clarity_theme==1.2.0
