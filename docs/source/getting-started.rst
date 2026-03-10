@@ -13,7 +13,7 @@ This tutorial walks you through how to make a simple package. It will show you h
 Requirements
 ------------
 
-To start making a package you will need a good code editor. In this tutorial we will be using visual `studio code`_
+To start making a package you will need a good code editor. In this tutorial we will be using `visual studio code`_
 
 .. _visual studio code: https://code.visualstudio.com
 
