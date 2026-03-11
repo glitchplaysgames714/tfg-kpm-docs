@@ -6,5 +6,6 @@ Welcome to TFG-KPM's documentation!
    :maxdepth: 2
 
    tutorials/index
+   guides/index
 TBA
 
