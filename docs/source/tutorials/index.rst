@@ -4,6 +4,7 @@ Tutorials
 **Tutorials** are opinionated step-by-step guides.
 
 .. toctree::
-    :maxdepth: 1
+    :titlesonly:
+    :maxdepth: 3
 
     getting-started.rst

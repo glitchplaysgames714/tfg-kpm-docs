@@ -7,5 +7,6 @@ introduction to packaging, see :doc:`/tutorials/getting-started`.
 
 .. toctree::
    :titlesonly:
+   :maxdepth: 3
    
    section-content
