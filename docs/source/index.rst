@@ -5,6 +5,6 @@ Welcome to TFG-KPM's documentation!
    :hidden:
    :maxdepth: 2
 
-   getting-started
+   tutorials/index
 TBA
 
