@@ -35,7 +35,7 @@ html_theme_options = {
     "header_menu": [
         {
             "label": "Getting Started",
-            "url": "https://tfg-kpm.glitchpdev.com/en/latest/getting-started.html",
+            "url": "https://tfg-kpm.glitchpdev.com/en/latest/tutorials/getting-started.html",
         },
         {
             "label": "Github",

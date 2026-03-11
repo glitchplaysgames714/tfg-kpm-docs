@@ -7,5 +7,5 @@ introduction to packaging, see :doc:`/tutorials/getting-started`.
 
 .. toctree::
    :titlesonly:
-
+   
    section-content

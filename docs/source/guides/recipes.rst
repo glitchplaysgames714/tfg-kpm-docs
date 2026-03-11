@@ -7,16 +7,16 @@ This guide shows you the Necessary wiki pages to add/remove recipes.
 Adding basic recipes
 --------------------
 
-Check the `KubeJs wiki`_ for how to add basic recipes.
+Check the `KubeJs wiki`__ for how to add basic recipes.
 
-.. _KubeJs wiki: https://kubejs.com/wiki/tutorials/recipes#adding-recipes
+.. __KubeJs wiki: https://kubejs.com/wiki/tutorials/recipes#adding-recipes
 
 Removing recipes
 ----------------
 
-Check the `KubeJs wiki`_ for how to remove recipes.
+Check the `KubeJs wiki`__ for how to remove recipes.
 
-.. _KubeJs wiki: https://kubejs.com/wiki/tutorials/recipes#removing-recipes
+.. __KubeJs wiki: https://kubejs.com/wiki/tutorials/recipes#removing-recipes
 
 
 Adding TFC related recipes
